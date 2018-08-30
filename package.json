@@ -1,0 +1,23 @@
+{
+  "name": "test_tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "loopback-connector-mongodb": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuffinFox/test_tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuffinFox/test_tools/issues"
+  },
+  "homepage": "https://github.com/MuffinFox/test_tools#readme"
+}
