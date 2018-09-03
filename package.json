@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "loopback-connector-mongodb": "^3.5.0"
+    "loopback-connector-mongodb": "^3.6.0"
   },
   "devDependencies": {},
   "scripts": {
