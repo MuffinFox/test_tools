@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "hoek": "^2.16.3",
-    "loopback-connector-mongodb": "^4.0.0"
+    "loopback-connector-mongodb": "^4.1.0"
   },
   "devDependencies": {},
   "scripts": {
